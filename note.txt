@@ -1,0 +1,6 @@
+admin:
+admin-123456
+staff:
+staff1-123456
+customer:
+nhatvinh99-123456

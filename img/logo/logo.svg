@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 100" width="100%" height="60">
+  <defs>
+    <linearGradient id="ndtOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7a45" />
+      <stop offset="100%" stop-color="#f15e2d" />
+    </linearGradient>
+  </defs>
+
+  <!-- Biểu tượng Icon Sneaker cách điệu -->
+  <g transform="translate(10, 10)">
+    <!-- Đế giày thể thao -->
+    <path d="M 5 65 Q 40 68 80 62 Q 95 60 105 45 Q 98 48 80 50 Q 30 50 15 58 Z" fill="url(#ndtOrange)" />
+    <!-- Thân giày năng động -->
+    <path d="M 12 55 Q 35 25 60 30 Q 75 33 88 42 Q 70 38 52 42 Q 28 48 12 55 Z" fill="#111111" />
+    <!-- Vệt lướt tốc độ -->
+    <path d="M 28 36 Q 48 37 62 44" stroke="#f15e2d" stroke-width="3" stroke-linecap="round" fill="none" />
+  </g>
+
+  <!-- Phần chữ Thương hiệu -->
+  <!-- Chữ NDT nổi bật -->
+  <text x="135" y="58" font-family="'Montserrat', 'Arial Black', sans-serif" font-size="42" font-weight="900" letter-spacing="2" fill="#111111">
+    NDT
+  </text>
+  <text x="240" y="58" font-family="'Montserrat', 'Arial Black', sans-serif" font-size="42" font-weight="900" letter-spacing="1" fill="#f15e2d">
+    .
+  </text>
+
+  <!-- Dòng chữ phụ SHOE STORE -->
+  <text x="137" y="76" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="5" fill="#777777">
+    SHOE STORE
+  </text>
+</svg>
